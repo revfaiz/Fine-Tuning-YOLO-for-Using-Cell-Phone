@@ -1,5 +1,5 @@
-train: D:\Yolo Implementation\Level1MobileUsingDetection\Dataset\train\images
-val:  D:\Yolo Implementation\Level1MobileUsingDetection\Dataset\val\images
-test: D:\Yolo Implementation\Level1MobileUsingDetection\Dataset\test\images
+train: Dataset\train\images
+val:  Dataset\val\images
+test: Dataset\test\images
 nc: 1
 names: ['phone']

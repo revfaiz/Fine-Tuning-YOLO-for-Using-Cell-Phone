@@ -21,4 +21,4 @@ def fine_tune_yolov10(model_config: str, data_config: str, epochs: int, img_size
     model.train(data=data_config, epochs=epochs, imgsz=img_size)
 
 # Example usage
-fine_tune_yolov10("yolo11n.pt", "D:\Yolo Implementation\Level1MobileUsingDetection\merged_dataset\data.yaml", 100, 640)
+fine_tune_yolov10("yolo11n.pt", "Dataset\data.yaml", 100, 640)
