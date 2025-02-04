@@ -1,0 +1,6 @@
+train: D:\Yolo Implementation\Level1MobileUsingDetection\merged_dataset\train\images
+val:  D:\Yolo Implementation\Level1MobileUsingDetection\merged_dataset\val\images
+test: D:\Yolo Implementation\Level1MobileUsingDetection\merged_dataset\test\images
+
+nc: 1
+names: ['phone']
